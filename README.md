@@ -4,5 +4,5 @@
 #### Following topics are covered:
 
 ### Keywords,Identifiers,Comments,Statement,Indentation,Docstrings
-### Variables ######(Variable Assignment, Multiple Assignment)
+### Variables (Variable Assignment, Multiple Assignment)
 ### Data Types
