@@ -1,7 +1,7 @@
 # Python-Fundamentals
-###### This repositories includes the topics related to python.
+#### This repositories includes the topics related to python.
 
-###### Following topics are covered:
+#### Following topics are covered:
 
 ### Keywords,Identifiers,Comments,Statement,Indentation,Docstrings
 ### Variables
