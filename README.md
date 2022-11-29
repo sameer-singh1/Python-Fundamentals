@@ -3,6 +3,6 @@
 
 #### Following topics are covered:
 
-### * Keywords,Identifiers,Comments,Statement,Indentation,Docstrings
+*### Keywords,Identifiers,Comments,Statement,Indentation,Docstrings
 ### Variables (Variable Assignment, Multiple Assignment)
 ### Data Types
