@@ -7,6 +7,7 @@
 * ### Variables (Variable Assignment, Multiple Assignment)
 * ### Data Types (Numeric, Boolean, String, List, Tuple, Set, Dictionary)
 * ### Operators (Arithmetic, Comparison, Logical, Assignment, Bitwise, Membership
+* ### if else and loops
 * ### Functions
 * ### Lambda, Filter, Map, Reduce
 * ### Classes and Objects
